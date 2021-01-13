@@ -1,0 +1,2 @@
+# Tera
+Bug tracking application 
