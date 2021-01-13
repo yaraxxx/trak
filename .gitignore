@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# react stuff
+node_modules
+/node_modules
+
+.DS_Store
+
