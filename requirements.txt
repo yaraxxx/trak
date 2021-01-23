@@ -35,3 +35,5 @@ wrapt==1.12.1
 WTForms==2.3.3
 versionalchemy==1.0.0
 sqlalchemy-json==0.4.0
+pylint-flask==0.6
+pylint-flask-sqlalchemy==0.2.0
